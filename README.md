@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+%F0%9F%96%90;This+is+Vaiz+Hasan.;Software+Engineer+%F0%9F%92%BB;Full+stack+Developer&color=33f0ff&weight=900&font=Fira%20Code&center=true&width=435&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+%F0%9F%96%90;This+is+Vaiz+Hasan.;Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer&color=33f0ff&weight=900&font=Fira%20Code&center=true&width=435&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <!-- <p align="center"> 
@@ -8,7 +8,7 @@
 </p> -->
 
 # 💫 About Me:
-Hi, I’m Vaiz Hasan, a Software Engineering student at NED University in Karachi. I am currently focused on full-stack development using the MERN stack. Feel free to explore my work.
+I'm a Software Engineer building web applications, exploring AI, and designing scalable systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaizhasan)
